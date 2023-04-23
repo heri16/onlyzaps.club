@@ -31,6 +31,5 @@ Verified IDs in [.well-known/nostr.json]({{ site.github.url }}/.well-known/nostr
 
 
 ## Built with
-- **HSTS Preload** - [Preloaded HTTPS Strict Transport Security](https://hstspreload.org/?domain={{ site_url_host }})
-- **Low-latency DNS** - Anycast Nameservers. [DNSSEC is enabled](https://dnsviz.net/d/{{ site_url_host }}/dnssec/)
+- **Low-latency DNS** - Anycast DNS Nameservers. [DNSSEC is enabled](https://dnsviz.net/d/{{ site_url_host }}/dnssec/)
 - **Github Pages** - [Enforce HTTPS](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https)
