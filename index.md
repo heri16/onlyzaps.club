@@ -3,6 +3,10 @@ title: "onlyzaps.club"
 ---
 # A free and anonymous NIP-05 ID registration service
 
+Feeling like you belong to the club?
+
+Show your support for [**#onlyzaps**](https://nostr.band/?q=onlyzaps) by changing your profile NIP05 to `username@onlyzaps.club` for all to see.
+
 ### How to add / register:
 1. Click [this link]({{ site.github.repository_url }}/new/main/_nip05) to create a new file in the [_nip05]({{ site.github.repository_url }}/tree/main/_nip05) folder
   1. Input the file-name in this format: `<your nostr username>.md`
