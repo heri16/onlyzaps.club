@@ -1,0 +1,12 @@
+---
+---
+{%- assign nip05 = site.nip05 | where_exp: "doc", "doc.pubkey != nil" -%}
+
+{
+  "names": {
+    {%- for doc in nip05 %}
+      {{ doc.url | split: "/" | last | jsonify }}: {{ doc.pubkey | jsonify }}
+      {%- unless forloop.last %},{% endunless -%}
+    {% endfor %}
+  }
+}

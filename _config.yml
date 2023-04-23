@@ -1,0 +1,7 @@
+include:
+  - ".well-known"
+
+collections:
+  nip05:
+    output: false
+    permalink: /:collection/:name
