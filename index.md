@@ -11,7 +11,8 @@ title: "onlyzaps.club"
 1. Share the URL to your GitHub Pull Request via DM to nostr [npub1hry9h6yld9lte58ldhmv0s5thdrpawet9v0suz365se6t7zgf78sq0t00c](https://dsh.re/a9ff9) and wait to be 
 verified
 
-Alternatively, just [DM me on nostr](https://dsh.re/a9ff9): `npub1hry9h6yld9lte58ldhmv0s5thdrpawet9v0suz365se6t7zgf78sq0t00c`
+Alternatively, just [DM me on nostr](https://dsh.re/a9ff9) `npub1hry9h6yld9lte58ldhmv0s5thdrpawet9v0suz365se6t7zgf78sq0t00c` to reserve your username. First come 
+first serve.
 
 ### File Template:
 ```md
