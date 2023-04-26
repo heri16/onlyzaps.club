@@ -25,7 +25,7 @@ pubkey: "<your hex-encoded pubkey>"
 ---
 ```
 
-
+<!---
 ## Nostr Identities ([NIP-05](https://nostr.how/en/guides/get-verified#self-hosted))
 
 Verified IDs in [.well-known/nostr.json]({{ site.github.url }}/.well-known/nostr.json):
@@ -36,7 +36,7 @@ Verified IDs in [.well-known/nostr.json]({{ site.github.url }}/.well-known/nostr
 {% for doc in nip05 %}
   * [{{ doc.url | split: "/" | last | strip_html }}@{{ site_url_host }}](https://snort.social/p/{{ doc.pubkey | strip_html | url_encode }})
 {% endfor %}
-
+-->
 
 ## Built with
 - **High-security TLS** - [Grade A rating on Qualys SSL Labs results](https://www.ssllabs.com/ssltest/analyze.html?d={{ site_url_host }}) 
